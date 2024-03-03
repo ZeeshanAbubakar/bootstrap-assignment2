@@ -1,0 +1,31 @@
+main {
+    flex: 1 0 auto;
+}
+
+
+
+
+
+
+
+
+#hero-section {
+    background-image: url(/architect.jpg);
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+#br-word {
+    background-color: rgba(0, 0, 0, 0.7)
+}
+#hero-section {
+    font-size: 50px;
+}
+#about-section {
+    filter: grayscale(0.75);
+}
